@@ -1,0 +1,8 @@
+C:\Users\fvg\source\Asincrono\Asincrono\bin\Debug\Asincrono.exe.config
+C:\Users\fvg\source\Asincrono\Asincrono\bin\Debug\Asincrono.exe
+C:\Users\fvg\source\Asincrono\Asincrono\bin\Debug\Asincrono.pdb
+C:\Users\fvg\source\Asincrono\Asincrono\obj\Debug\Asincrono.csproj.AssemblyReference.cache
+C:\Users\fvg\source\Asincrono\Asincrono\obj\Debug\Asincrono.csproj.SuggestedBindingRedirects.cache
+C:\Users\fvg\source\Asincrono\Asincrono\obj\Debug\Asincrono.csproj.CoreCompileInputs.cache
+C:\Users\fvg\source\Asincrono\Asincrono\obj\Debug\Asincrono.exe
+C:\Users\fvg\source\Asincrono\Asincrono\obj\Debug\Asincrono.pdb
